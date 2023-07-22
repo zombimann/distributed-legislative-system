@@ -1,0 +1,8 @@
+# requirements.txt
+Flask
+SQLAlchemy
+Flask-JWT-Extended
+Flask-Testing
+mysql-connector-python
+pymysql
+
