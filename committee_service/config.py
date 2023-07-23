@@ -1,3 +1,5 @@
+#app/config.py
+
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'zombi'
 MYSQL_PASSWORD = 'C0mpradors*'
